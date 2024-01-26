@@ -1,0 +1,15 @@
+.circle_btn {
+    font-size: 100px;
+    background-color: grey;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+}
+.circle_btn:hover {
+    transition: all 1.5s;
+    transform: rotate(360deg);
+    background-color: orange;
+    color: black;
+}
